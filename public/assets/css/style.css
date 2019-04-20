@@ -1,0 +1,57 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background-color: #988983;
+  opacity: .7;
+  color: #2A2624;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: #AA9E99;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  font-size: 15pt;
+}
+
+#main {
+  background-image: url("/assets/images/background.jpeg");
+  font-family: 'Candal', sans-serif;
+  color: #DCD7D5;
+}
+
+p{
+  padding:50px;
+  background-image: url("/assets/images/burger.jpeg");
+  opacity: .8;
+  background-position: 50% center;
+  color: rgb(255, 255, 255);
+  font-size: 40pt;
+  
+}
+
+#columns{
+  text-align: center;
+}
+p1 {
+  font-size:21pt;
+}
+
+p2 {
+  font-size:21pt;
+}
+
+#submit{
+  background-color: #988983;
+}
+
+#bur {
+ background-color: #DCD7D5;
+}
