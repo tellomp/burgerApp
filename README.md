@@ -8,33 +8,33 @@
 * The app stores every burger in a database, whether devoured or not.
 
 ## Directory structure
-
+```
 .
 ├── config
-│   ├── connection.js
-│   └── orm.js
-│ 
+│   ├── connection.js
+│   └── orm.js
+│ 
 ├── controllers
-│   └── burgers_controller.js
+│   └── burgers_controller.js
 │
 ├── db
-│   ├── schema.sql
-│   └── seeds.sql
+│   ├── schema.sql
+│   └── seeds.sql
 │
 ├── models
-│   └── burger.js
-│ 
+│   └── burger.js
+│ 
 ├── node_modules
-│ 
+│ 
 ├── package.json
 │
 ├── public
-│   └── assets
-│       ├── css
-│       │   └── burger_style.css
-│       └── img
-│           └── burger.png
-│   
+│   └── assets
+│       ├── css
+│       │   └── burger_style.css
+│       └── img
+│           └── burger.png
+│   
 │
 ├── server.js
 │
@@ -42,6 +42,7 @@
     ├── index.handlebars
     └── layouts
         └── main.handlebars
+```
         
 ## Live App
 * Click on the link to add some burgers to the menu! 
