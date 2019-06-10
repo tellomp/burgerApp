@@ -50,7 +50,7 @@
 ## Technologies Used
 * Javascript
 * CSS
-* Boostrap
+* Bootstrap
 * Node.js
 * MySQL
 * Handlebars.js
